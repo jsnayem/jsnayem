@@ -10,10 +10,12 @@ I am a developer focused on high-performance systems and backend architecture. I
 
 ## 🛠 Tech Stack
 ### Languages & Frameworks
-![Python](https://shields.io) 
-![Django](https://shields.io)
-![Rust](https://shields.io)
-![Linux](https://shields.io)
+
+[![Python]](https://www.python.org "Python")
+[![Django]](https://www.djangoproject.com "Django")
+[![Rust]](https://www.rust-lang.org "Rust")
+[![Linux]](https://www.linuxfoundation.org "Linux")
+
 
 ### Restoration & Systems
 - Hardware Troubleshooting & Repair
@@ -21,3 +23,10 @@ I am a developer focused on high-performance systems and backend architecture. I
 - Virtualization: KVM, QEMU, Docker
 - Server Management: Nginx, Gunicorn, Redis
 
+
+
+
+[Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=092E20&logoColor=44b78a&logo=django
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python
+[Rust]: https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=rust
+[Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
